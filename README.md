@@ -38,7 +38,3 @@ Nexcent - це сучасна цільова сторінка (landing page), р
 - HTML5
 - CSS3 (з CSS змінними)
 - Google Fonts (Inter)
-
-## Розробник
-
-Школа: 2025-2026, клас 6B1
